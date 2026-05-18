@@ -1,0 +1,30 @@
+# Applied Penetration Testing Engineer - Final Project
+
+**Student ID:** 2210456  
+**Course:** Applied Penetration Testing Engineer  
+**Focus:** OWASP Juice Shop Web Application Security Assessment
+
+![OWASP Juice Shop](https://raw.githubusercontent.com/username/2210456-final-project/main/screenshots/juice-challenge-complete.png)
+
+## Project Overview
+
+This repository documents a comprehensive web application penetration test against the **OWASP Juice Shop**, a deliberately vulnerable online store used for security training.
+
+### Key Achievements
+- ✅ Identified and exploited **SQL Injection** for admin login bypass
+- ✅ Discovered **Broken Access Control** on API endpoints
+- ✅ Demonstrated **Reflected XSS** vulnerability
+- ✅ Documented sensitive data exposure risks
+- ✅ Provided professional remediation recommendations
+
+## Repository Structure
+- `reconnaissance/` — Passive & active information gathering
+- `web-assessment/` — Detailed Juice Shop findings
+- `screenshots/` — Evidence of all exploits
+- `final-report.pdf` — Professional penetration testing report
+
+**Live Demo:** [OWASP Juice Shop](http://10.49.178.123) (Lab environment)
+
+---
+
+**Prepared for educational purposes only.**
